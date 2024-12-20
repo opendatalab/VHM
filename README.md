@@ -14,6 +14,8 @@
 </div>
 
 ## News
+- **2024.12.19** The full version of the paper with the appendix has been uploaded to [ArXiv](https://arxiv.org/abs/2403.20213).🔥🔥🔥
+- **2024.12.9** The work has been accepted by AAAI 2025. 🔥🔥🔥
 - **2024.11.15** The code have been released.🔥🔥🔥
 - **2024.11.15** The large-scale RS image-text dataset, [VersaD](https://huggingface.co/datasets/FitzPC/VHM_VersaD), featuring rich and diverse captions, has just been released, now with a massive 1.4 million image captions. 🔥🔥🔥
 - **2024.11.3** The new version of the **VHM** paper has been updated to [ArXiv](https://arxiv.org/abs/2403.20213).
