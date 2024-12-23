@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.20213-b31b1b.svg)](https://arxiv.org/abs/2403.20213) 
 
-[[Project Page](https://fitzpchao.github.io/vhm_page/)] [[Paper](https://arxiv.org/abs/2403.20213)] [[Model🤗](https://huggingface.co/FitzPC/vhm_7B)] [[Dataset🤗](https://huggingface.co/datasets/FitzPC/VHM_VersaD/tree/main)]
+[[Project Page](https://fitzpchao.github.io/vhm_page/)] [[Paper](https://arxiv.org/abs/2403.20213)] [[Model🤗](https://huggingface.co/FitzPC/vhm_7B)] [[Dataset🤗](https://huggingface.co/datasets/FitzPC/VHM_VersaD/tree/main)] [[RSEvalKit](https://github.com/fitzpchao/RSEvalKit)]
 
 
 <!-- <div style="display: flex; justify-content: center;" align="center">
@@ -14,8 +14,10 @@
 </div>
 
 ## News
+
 - **2024.12.19** The full version of the paper with the appendix has been uploaded to [ArXiv](https://arxiv.org/abs/2403.20213).🔥🔥🔥
 - **2024.12.9** The work has been accepted by AAAI 2025. 🔥🔥🔥
+- **2024.11.15** The [RSEvalKit](https://github.com/fitzpchao/RSEvalKit) for one-click evaluation of RSVLMs has been released.
 - **2024.11.15** The code have been released.🔥🔥🔥
 - **2024.11.15** The large-scale RS image-text dataset, [VersaD](https://huggingface.co/datasets/FitzPC/VHM_VersaD), featuring rich and diverse captions, has just been released, now with a massive 1.4 million image captions. 🔥🔥🔥
 - **2024.11.3** The new version of the **VHM** paper has been updated to [ArXiv](https://arxiv.org/abs/2403.20213).
