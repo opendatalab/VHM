@@ -37,11 +37,11 @@
 ## Install
 Refer to the following command for installation.
 ```bash
-git clone git@github.com:opendatalab/VHM.git
+git clone https://github.com/opendatalab/VHM.git
 cd VHM
 conda create -n vhm 
 conda activate vhm
-pip install -r requirment.txt
+pip install -r requirements.txt
 ```
 ## Data
 You should follow this instruction [Data.md](docs/Data.md) to manage the datasets. If you need to train our model from scratch, please refer to for data download and preparation first.
